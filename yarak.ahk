@@ -2,7 +2,7 @@ F1::
 	toggle:=1
 	while (toggle)
 	{
-		Send, {yarak Down}{yarak Up}
+		Send, {y Down}{a Up}
 	}
 	
 Return
